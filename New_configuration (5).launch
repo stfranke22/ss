@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration prototype="UHGI" type="org.eclipse.jdt.launching.localJavaApplication">
+    <stringAttribute key="org.eclipse.debug.core.ATTR_PROTOTYPE" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;UHGI&quot;/&gt;&#10;"/>
+    <booleanAttribute key="org.eclipse.debug.core.IS_PROTOTYPE" value="false"/>
+    <booleanAttribute key="org.eclipse.debug.core.appendEnvironmentVariables" value="false"/>
+    <mapAttribute key="org.eclipse.debug.core.environmentVariables">
+        <mapEntry key="APP_ICON_2850" value="../Resources/Eclipse.icns"/>
+        <mapEntry key="COMMAND_MODE" value="unix2003"/>
+        <mapEntry key="HOME" value="/Users/stevefranke"/>
+        <mapEntry key="JAVA_STARTED_ON_FIRST_THREAD_2850" value="1"/>
+        <mapEntry key="LOGNAME" value="stevefranke"/>
+        <mapEntry key="PATH" value="/usr/bin:/bin:/usr/sbin:/sbin"/>
+        <mapEntry key="SHELL" value="/bin/zsh"/>
+        <mapEntry key="SQLITE_EXEMPT_PATH_FROM_VNODE_GUARDS" value="/Users/stevefranke/Library/WebKit/Databases"/>
+        <mapEntry key="SSH_AUTH_SOCK" value="/private/tmp/com.apple.launchd.ZOQbYqOghk/Listeners"/>
+        <mapEntry key="TMPDIR" value="/var/folders/my/c71x08tx21711pwc5rlwxm6m0000gn/T/"/>
+        <mapEntry key="USER" value="stevefranke"/>
+        <mapEntry key="XPC_FLAGS" value="0x0"/>
+        <mapEntry key="XPC_SERVICE_NAME" value="application.org.eclipse.platform.ide.3634288.3650002"/>
+        <mapEntry key="__CFBundleIdentifier" value="org.eclipse.platform.ide"/>
+        <mapEntry key="__CF_USER_TEXT_ENCODING" value="0x1F5:0x0:0x3"/>
+    </mapAttribute>
+    <listAttribute key="org.eclipse.debug.ui.favoriteGroups">
+        <listEntry value="org.eclipse.debug.ui.launchGroup.debug"/>
+        <listEntry value="org.eclipse.eclemma.ui.launchGroup.coverage"/>
+        <listEntry value="org.eclipse.debug.ui.launchGroup.run"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.debug.ui.CONSIDER_INHERITED_MAIN" value="true"/>
+    <booleanAttribute key="org.eclipse.jdt.debug.ui.INCLUDE_EXTERNAL_JARS" value="true"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_ATTR_USE_ARGFILE" value="false"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_SHOW_CODEDETAILS_IN_EXCEPTION_MESSAGES" value="true"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_CLASSPATH_ONLY_JAR" value="false"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_START_ON_FIRST_THREAD" value="true"/>
+    <listAttribute key="org.eclipse.jdt.launching.CLASSPATH"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.DEFAULT_CLASSPATH" value="false"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value=""/>
+    <listAttribute key="org.eclipse.jdt.launching.MODULEPATH">
+        <listEntry value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;runtimeClasspathEntry externalArchive=&quot;/Users/stevefranke/Downloads/AndroRAT-master&quot; path=&quot;4&quot; type=&quot;2&quot;/&gt;&#10;"/>
+        <listEntry value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;runtimeClasspathEntry containerPath=&quot;org.eclipse.jdt.launching.JRE_CONTAINER&quot; path=&quot;4&quot; type=&quot;4&quot;/&gt;&#10;"/>
+    </listAttribute>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value=""/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value=""/>
+    <booleanAttribute key="org.eclipse.jdt.launching.STOP_IN_MAIN" value="true"/>
+</launchConfiguration>

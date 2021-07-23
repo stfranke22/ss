@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/AndroRAT.iml" filepath="$PROJECT_DIR$/src/AndroRAT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Androrat/Androrat.iml" filepath="$PROJECT_DIR$/src/Androrat/Androrat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Experiment/AndroratActivity/AndroratActivity.iml" filepath="$PROJECT_DIR$/Experiment/AndroratActivity/AndroratActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/AndroratServer/AndroratServer.iml" filepath="$PROJECT_DIR$/src/AndroratServer/AndroratServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Experiment/Experiment.iml" filepath="$PROJECT_DIR$/Experiment/Experiment.iml" />
+    </modules>
+  </component>
+</project>
